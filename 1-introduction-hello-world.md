@@ -59,3 +59,17 @@ func main() {
    fmt.Println(t.Now())
 }
 ```
+
+#### comments(types)
+```
+// Are we racing or coding?
+  /*
+  fmt.Println("Ready")
+  fmt.Println("Set")
+  ```
+  */
+  
+  #### docs
+  To do quick cjeck on Go's doc/syntac/library
+  
+  `go doc fmt` `go doc fmt.Println`
