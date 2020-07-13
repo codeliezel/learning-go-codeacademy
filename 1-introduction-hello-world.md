@@ -1,3 +1,5 @@
+### This file covers starter point introduction in Go.
+
 ```
 package main
 
